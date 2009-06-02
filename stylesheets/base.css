@@ -1,0 +1,196 @@
+:link,:visited { text-decoration:none } :focus,:active { outline: 0 } ul,ol { list-style:none } h1,h2,h3,h4,h5,h6,pre,code { font-size:1em; } ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input { margin:0; padding:0 } a img,:link img,:visited img, fieldset { border:none } address { font-style:normal }
+html{
+ background-color: #cdd4d6;
+}
+a{
+  color: #7f0000;
+  }
+body{
+  background: #CDD4D6 url(/themes/ansuz_theme_al_lp/images/bg.png) repeat-x scroll left top;
+  font-family: times, serif;
+  text-align: center;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  color: #4b4b4b;
+  }
+  .header{
+    width: 950px;
+    height: 130px;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+  }
+  .header .logo{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/logo.png) no-repeat top left;
+    height: 128px;
+    width: 450px;
+    margin-top:2px;
+    float: left;
+  }
+  .header .logo a{
+    display: block;
+    height: 128px;
+    width: 180px;
+  }
+  .header .logo a span{
+    display: none;
+  }
+  .header .give-us-money{
+    background-color:#FFFFFF;
+    border-left:1px solid #AAAAAA;
+    border-right:1px solid #AAAAAA;
+    height:58px;
+    padding:18px 10px 10px;
+    position:absolute;
+    right:0;
+    top:0;
+    width:310px;
+    /*
+    width: 310px;
+    height: 58px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding:18px 0 0;
+    */
+  }
+  .header .give-us-money .contribute span, .header .give-us-money .join span {
+    display: none;
+  }
+  .header .give-us-money .contribute{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/contribute.png) no-repeat top left;
+    display: block;
+    float: left;
+    width: 175px;
+    height: 60px;
+    margin-top: 12px;
+  }
+  .header .give-us-money .contribute:hover{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/contribute_hover.png) no-repeat top left;
+   }
+  .header .give-us-money .join:hover{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/join_hover.png) no-repeat top left;
+   }
+  .header .give-us-money .join{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/join.png) no-repeat top left;
+    display: block;
+    float: left;
+    width: 115px;
+    height: 60px;
+    margin-top: 12px;
+  }
+  .header .give-us-money img{
+    display: block;
+    float: left;
+    margin-right: 15px;
+  }
+  .header #navigation{
+    position:absolute;
+    width: auto;
+    right: 0;
+    bottom: -20px;
+    font-size: 1.15em;
+    height: 52px;
+  }
+  .header #navigation h3{
+    display: none;
+  }
+  .header #navigation ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  .header #navigation ul li{
+    display:block;
+    float: left;
+    height: 52px;
+    padding-top: 0;
+    position:relative;
+  }
+  .header #navigation ul li a{
+    text-transform: uppercase;
+    color: #4b4b4b;
+    text-decoration: none;
+    padding: 10px 15px 0;
+    display: inline-block;
+    height: 100%;
+  }
+  .header #navigation ul li a:hover, .header #navigation ul li:hover a{
+    color: #7f0000;
+    }
+  .header #navigation ul li.active{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/tab-right.png) no-repeat right top;
+    }
+  .header #navigation ul li.active a{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/tab-left.png) no-repeat left top;
+    color: #011a38;
+    margin-right: 16px;
+    padding-right: 0;
+    }
+  .header #navigation ul li ul{
+    position:absolute;
+    padding-top: 6px;
+    width: 238px;
+	  left: -999em;
+    top: 27px;
+    z-index: 1000;
+  }
+  .header #navigation ul li:hover ul {
+  	left: auto;
+  }
+  .header #navigation ul li ul li{
+    float:none;
+    background: transparent url(/themes/ansuz_theme_al_lp/images/drop-down.png) repeat-y scroll 0 0;
+    padding-top: 0;
+    padding-left: 5px;
+  }
+  .header #navigation ul li ul li.last{
+    background:#FFFFFF none repeat-y scroll 0 0;
+    padding: 0;
+    position: relative;
+    top: -20px;
+  }
+  .header #navigation ul li ul li.last img{
+    display: block;
+    margin: 0;
+    padding: 0;
+  }
+  .header #navigation ul li:hover ul li a{
+    color: #4B4B4B;
+    padding: 5px 10px;
+  }
+  .header #navigation ul li:hover ul li a:hover{
+    color: #7f0000;
+  }
+  .content-wrapper{
+    background: transparent url(/themes/ansuz_theme_al_lp/images/cont-wrapper-bg.png) no-repeat left top;
+    width: 996px;
+    margin: 10px auto 0;
+    padding-top: 30px;
+  }
+  .content-wrapper .container{
+    background: #fff;
+    width: 950px;
+    margin: 0 auto 15px;
+    text-align: left;
+    padding-bottom: 15px;
+    position: relative;
+  }
+  .content-wrapper .container #breadcrumb{
+    position: absolute;
+    top: -22px;
+    left: 5px;
+    font-weight: 400;
+    font-size: .8em;
+  }
+  .content-wrapper .container h2{
+    font-weight: 400;
+    font-size: 1.95em;
+    text-transform: uppercase;
+    margin: 20px 20px 0;
+  }
+  .content-wrapper .container p{
+    margin: 10px 20px 0;
+    font-size: .9em;
+  }

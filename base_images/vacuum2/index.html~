@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="author" content="brandon"/>
+<meta name="Robots" content="index,follow" />
+<meta name="Description" content="Description" />
+<meta name="Keywords" content="key, words" />
+<link rel="stylesheet" type="text/css" href="images/style.css" />
+<title>Welcome to Desco</title>
+</head>
+<body>
+	<div id="bg">
+		<div id="sadrzaj">
+		  <div id='logo'> 
+		  
+		  </div>
+			<div id="zaglavlje">
+			
+				<div id="title">
+					<a href="#">Des<span class="blue">co</span></a>
+					<span class='subtext'>VacuumSupply.com</span>
+				</div>
+				
+				<form action="search" />
+					Search: <input name="query" type="text" size="15" />
+					<input type="submit" value="Go" name="search" class="button" />
+			</div>
+
+			<div id="navigacija">
+				<ul>
+					<li><a href="#">home</a></li>
+					<li><a href="#">blog</a></li>
+					<li><a href="#">partners</a></li>
+					<li><a href="#">more stuff</a></li>
+					<li><a href="#">catalog</a></li>
+					<li><a href="#">more stuff</a></li>
+					<li><a href="#">partners</a></li>
+					<li><a href="#">more stuff</a></li>
+					<li><a href="#">more stuff</a></li>
+					<li><a href="#">vacuum</a></li>
+					<li><a href="#">more stuff</a></li>
+					<li><a href="#">list item</a></li>
+					<li><a href="#">more stuff</a></li>
+					<li><a href="#">lorem</a></li>
+				</ul>
+	
+				
+			</div>
+
+			<div id="pic">
+  			<h2>Welcome to Desco</h2>
+  			<div class='login-block'>
+  			  <p>
+  			  <label>login:</label> <input name="log" type="text" size="15" />
+  			  </p>
+  			  <p>
+  			  <label>password:</label> <input name="pass" type="text" size="15" />
+  			  </p>
+  			  <p>
+  			    <input type="submit" value="Go" name="search" class="button" />
+  			  </p>
+		    </div>					
+			</div>
+
+			<div class="desna_rubrika">
+				<h3>Featured Products</h3>
+				<p>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> Vacuum Part Number 2344</a>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> Vacuum Part Number 234 sdf sssddd</a>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> Vacuum Part Number 234 more words</a>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> HOOVER TYPE A REPL BAGS (9)PK</a>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> CLARK/ALTO BACKPACK ORIG BAGS</a>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> COMPACT 1 1/4 CP HOSE</a>
+				<a href="#"><img src="images/strelica2.gif" width="6px" height="5px" alt="" /> COMPACT DOME FILTERS</a>
+				</p>
+    		</div>
+
+			<div class="lijeva_rubrika">
+			<h3>NEW CLICKABLE SCEMATICS!</h3>
+				<p>	
+				This is informationi about our exciting new feature of clickable schematics. <a href="#">This is a link</a>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna <a href="#">aliquam erat volutpat.</a> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate.
+				<a href="#">aliquam erat volutpat</a>. Ut wisi enim ad minim veniam.</p>
+			</div>
+			<div id="downbox">
+			<p>If you do not yet have a login/password, or would like to open an account with Desco, call 1 800 833 3726 to obtain your credentials. Desco is a distributor of vacuum cleaner parts and does not service the general public, we only provide business to business services for vacuum cleaner stores.
+			<p>Lorem ipsum dolor sit amet, <a href="#">consectetuer adipiscing elit</a>, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna <a href="#">aliquam erat volutpat.</a> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate.</p>
+			</div>
+			
+			<div id="footer">
+			Copyright &copy; 2005 <a href="#">YourCompany.com</a> > Designed by <a href="mailto:luka@solucija.com">Luka Cvrk</a> > 
+			<a href="http://www.solucija.com">Solucija.com</a> | Validate > 
+			<a href="http://validator.w3.org/check?uri=referer">XHTML 1.0 Strict!</a> |
+			<a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
