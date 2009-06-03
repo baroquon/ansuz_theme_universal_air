@@ -20,6 +20,18 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient3288">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3290" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3292" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient3287">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -180,6 +192,59 @@
        y1="116.76829"
        x2="128.69344"
        y2="215.76323" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3227"
+       id="radialGradient2495"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5351589,0.1013758,-0.185554,1.7362447,-170.99661,-124.28227)"
+       cx="360.74432"
+       cy="118.88139"
+       fx="360.74432"
+       fy="118.88139"
+       r="34.471455" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3181"
+       id="linearGradient2497"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1,95)"
+       x1="128.69344"
+       y1="116.76829"
+       x2="128.69344"
+       y2="215.76323" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2509">
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#linearGradient2513);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="path2511"
+         sodipodi:cx="375.65048"
+         sodipodi:cy="100.77323"
+         sodipodi:rx="34.471455"
+         sodipodi:ry="34.117901"
+         d="M 410.12194,100.77323 A 34.471455,34.117901 0 1 1 341.17903,100.77323 A 34.471455,34.117901 0 1 1 410.12194,100.77323 z"
+         transform="matrix(0.6488318,0,0,0.6488318,-166.3676,684.8141)" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3227"
+       id="linearGradient2513"
+       gradientUnits="userSpaceOnUse"
+       x1="332.01526"
+       y1="68.047295"
+       x2="370.06015"
+       y2="89.611122" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3288"
+       id="linearGradient3294"
+       x1="326.84909"
+       y1="73.324371"
+       x2="362.89377"
+       y2="97.745781"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -191,9 +256,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="172.83457"
-     inkscape:cy="616.41268"
+     inkscape:zoom="2"
+     inkscape:cx="208.16865"
+     inkscape:cy="396.49131"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -383,7 +448,10 @@
            style="font-size:55.88811111px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'">IR</tspan></tspan></text>
     <g
        id="g3373"
-       transform="matrix(1.3566276,0,0,1.3566276,99.997796,15.768479)">
+       transform="matrix(1.3566276,0,0,1.3566276,99.997796,15.768479)"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086">
       <path
          sodipodi:type="arc"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -490,7 +558,10 @@
        style="font-size:2.63668323px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious;-inkscape-font-specification:Delicious"
        x="260.27405"
        y="582.34808"
-       id="text3399"><tspan
+       id="text3399"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086"><tspan
          sodipodi:role="line"
          id="tspan3401"
          x="260.27405"
@@ -498,7 +569,10 @@
          style="font-size:26.36683273px;fill:#000080">efficient products, people and service</tspan></text>
     <g
        id="g3403"
-       transform="matrix(0.93123,0,0,0.93123,108.10689,264.0387)">
+       transform="matrix(0.93123,0,0,0.93123,108.10689,264.0387)"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086">
       <text
          sodipodi:linespacing="125%"
          xml:space="preserve"
@@ -532,5 +606,142 @@
              style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3421);fill-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"
              id="tspan3419">AIR</tspan></tspan></text>
     </g>
+    <path
+       transform="matrix(0.6193336,0,0,0.6193336,-155.06476,687.92829)"
+       d="M 410.12194,100.77323 A 34.471455,34.117901 0 1 1 341.17903,100.77323 A 34.471455,34.117901 0 1 1 410.12194,100.77323 z"
+       sodipodi:ry="34.117901"
+       sodipodi:rx="34.471455"
+       sodipodi:cy="100.77323"
+       sodipodi:cx="375.65048"
+       id="path2459"
+       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086" />
+    <path
+       style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"
+       d="M 90.006151,726.34025 C 81.334452,726.34025 77.266217,733.35947 76.013082,739.67527 L 73.342206,752.97159 L 72.006768,759.59072 C 71.054381,764.40276 69.507268,766.50016 66.800495,766.50016 C 64.093722,766.50016 63.332072,764.40276 64.284452,759.59072 L 68.097225,740.58492 L 60.626513,740.58492 L 56.813741,759.59072 C 55.560606,765.90652 56.832073,772.92575 65.503765,772.92575 C 74.175464,772.92575 78.224345,765.90652 79.477479,759.59072 L 80.812918,752.97159 L 83.483794,739.67527 C 84.43618,734.86324 85.983294,732.76583 88.690067,732.76583 C 91.39684,732.76583 92.15849,734.86324 91.20611,739.67527 L 87.393337,758.68107 L 94.864049,758.68107 L 98.676821,739.67527 C 99.929956,733.35947 98.677843,726.34025 90.006151,726.34025 z"
+       id="path2461"
+       sodipodi:nodetypes="ccccsccccscccsccccc"
+       clip-path="url(#clipPath2509)"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.69252485px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 98.027202,747.33828 C 91.798421,751.95485 82.121934,755.27988 75.276994,749.01871 C 73.768245,747.63865 71.942306,744.65101 73.538125,742.97301 C 73.592411,742.91596 73.668444,742.85359 73.745133,742.79918 C 73.272842,742.54552 72.644644,742.88425 72.358177,743.18548 C 70.582848,745.05222 72.625599,748.39122 74.304055,749.92653 C 75.455406,750.9797 76.675317,751.78146 77.947402,752.37956 C 83.563216,755.02004 90.137143,753.53683 95.543105,750.66051 C 98.169735,749.24197 98.620716,750.10148 98.027202,747.33828 z"
+       id="path2463"
+       sodipodi:nodetypes="csscssscc"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#13640c;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2465"
+       sodipodi:cx="375.65048"
+       sodipodi:cy="100.77323"
+       sodipodi:rx="34.471455"
+       sodipodi:ry="34.117901"
+       d="M 410.12194,100.77323 A 34.471455,34.117901 0 1 1 341.17903,100.77323 A 34.471455,34.117901 0 1 1 410.12194,100.77323 z"
+       transform="matrix(0.6193336,0,0,0.6193336,-155.06476,687.92829)"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086" />
+    <path
+       transform="matrix(0.1717411,0.1895926,-0.2411909,0.2184811,29.866864,650.51957)"
+       d="M 410.12194,100.77323 A 34.471455,34.117901 0 1 1 341.17903,100.77323 A 34.471455,34.117901 0 1 1 410.12194,100.77323 z"
+       sodipodi:ry="34.117901"
+       sodipodi:rx="34.471455"
+       sodipodi:cy="100.77323"
+       sodipodi:cx="375.65048"
+       id="path2469"
+       style="opacity:0.6;fill:url(#radialGradient2495);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.20371032px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious;-inkscape-font-specification:Delicious"
+       x="103.63676"
+       y="768.38397"
+       id="text2471"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086"><tspan
+         sodipodi:role="line"
+         id="tspan2473"
+         x="103.63676"
+         y="768.38397"
+         style="font-size:12.0371027px;fill:#000080">efficient products, people and service</tspan></text>
+    <g
+       id="g2475"
+       transform="matrix(0.4251293,0,0,0.4251293,34.168737,623.068)"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086">
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"
+         x="152.99188"
+         y="316.86755"
+         id="text2477"><tspan
+           sodipodi:role="line"
+           id="tspan2479"
+           x="152.99188"
+           y="316.86755"
+           style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"><tspan
+             id="tspan2481"
+             style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008000;font-family:Delicious Heavy;-inkscape-font-specification:'Delicious Heavy, Bold Italic'">UNIVERSAL</tspan><tspan
+             id="tspan2483"
+             style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'">AIR</tspan></tspan></text>
+      <text
+         id="text2485"
+         y="316.86755"
+         x="152.99188"
+         style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2497);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2497);fill-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"
+           y="316.86755"
+           x="152.99188"
+           id="tspan2487"
+           sodipodi:role="line"><tspan
+             style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2497);fill-opacity:1;font-family:Delicious Heavy;-inkscape-font-specification:'Delicious Heavy, Bold Italic'"
+             id="tspan2489">UNIVERSAL</tspan><tspan
+             style="font-size:80.93449402px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient2497);fill-opacity:1;font-family:Delicious SmallCaps;-inkscape-font-specification:'Delicious SmallCaps, Bold Italic'"
+             id="tspan2491">AIR</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16.26017189px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delicious;-inkscape-font-specification:Delicious Medium Italic"
+       x="287.08881"
+       y="757.69873"
+       id="text2499"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2501"
+         x="287.08881"
+         y="757.69873"
+         style="font-size:16.26017189px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000080;font-family:Delicious;-inkscape-font-specification:Delicious Medium Italic">inc.</tspan></text>
+    <path
+       transform="matrix(0.659635,0,0,0.659635,-170.06476,683.86699)"
+       d="M 410.12194,100.77323 A 34.471455,34.117901 0 1 1 341.17903,100.77323 A 34.471455,34.117901 0 1 1 410.12194,100.77323 z"
+       sodipodi:ry="34.117901"
+       sodipodi:rx="34.471455"
+       sodipodi:cy="100.77323"
+       sodipodi:cx="375.65048"
+       id="path2515"
+       style="fill:url(#linearGradient3294);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.6"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/brandon/rails/ansuz_theme_universal_air/images/logo.png"
+       inkscape:export-xdpi="150.26086"
+       inkscape:export-ydpi="150.26086" />
   </g>
 </svg>

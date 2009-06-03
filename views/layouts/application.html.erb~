@@ -32,8 +32,8 @@
           <%= @content_for_layout -%>
           <%= render :partial => "page/child_nav" if (@page && (!@page.children.empty?)) -%>
         </div>
-        <%= render :partial => "page/footer" -%>
       </div>
+      <%= render :partial => "page/footer" -%>
     </div>
     
     <script type='text/javascript'>
